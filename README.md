@@ -13,13 +13,13 @@
 </p>
 
 <p>
-  <a href="https://mdselim.com/">
+  <a href="https://github.com/md-selim-dev">
     <img src="https://img.shields.io/badge/Portfolio-Visit%20Website-4353FF?style=for-the-badge&logo=googlechrome&logoColor=white" />
   </a>
   <a href="https://linkedin.com/in/md-selim-reja">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:hello@mdselim.com">
+  <a href="mailto:smselimreja77@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
@@ -82,8 +82,8 @@ My ultimate goal is to become a skilled cybersecurity professional capable of un
 <p>
   <a href="https://linkedin.com/in/md-selim-reja">LinkedIn</a> ·
   <a href="https://github.com/md-selim-dev">GitHub</a> ·
-  <a href="https://mdselim.com/">Portfolio</a> ·
-  <a href="mailto:hello@mdselim.com">Email</a>
+  <a href="https://github.com/md-selim-dev">Portfolio</a> ·
+  <a href="mailto:smselimreja77@gmail.com">Email</a>
 </p>
 
 <br />
